@@ -1,0 +1,1 @@
+<a href="mailto:info@minicorp.ru">info@minicorp.ru</a>
